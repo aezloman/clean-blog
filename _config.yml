@@ -2,8 +2,8 @@ title:             Aezlo's Blog
 email:             aezloman@athelo.net
 description:       To aether
 author:            Aezlo
-baseurl:           "/clean-blog"
-url:               "http://athelo.net"
+baseurl:           "/"
+url:               "http://blog.athelo.net"
 
 # Social Profiles
 twitter_username:  SBootstrap
